@@ -4,6 +4,7 @@
 </head>
 <h1>This game is developed and deployed by satish</h1>
 <h2>RPS Game</h2>
+<h3>All is well</h3>
    <body>
 
       Which one will it be for you today?<br/>
