@@ -2,7 +2,9 @@
 <head>
 <title>Rock Paper Scissors!!!</title>																																																						<html>
 </head>
-<h1>This game is developed and deployed by satish</h1>
+<background bgcolor = "gray">
+<h1><center>This game is developed and deployed by satish</h1> </center>
+
 <h3>Game is Running successfully</h3>
 
    <body>
