@@ -3,11 +3,7 @@
 <title>Rock Paper Scissors!!!</title>																																																						<html>
 </head>
 <h1>This game is developed and deployed by satish</h1>
-<h2>Name: RPS Game</h2>
-<h3>All is well</h3>
-<h4>Close</h4>
-<h5>Hello world</h5>
-<h6>Game running successfully</h6>
+
    <body>
 
       Which one will it be for you today?<br/>
